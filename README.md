@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning about Haskell programming language and FP in general
 
 
 ## 🛠 &nbsp;Tech Stack
